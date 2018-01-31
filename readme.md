@@ -1,12 +1,12 @@
-##название
+## название
 Сайт содержит информацию о странах мира.
-##авторы
+## авторы
 Анастасия Врублевская
 Виктория Жданович
-##технологии
--HTML
--CSS
--JavaScript
--php
-##установка
--git clone https://github.com/AnastasiyaVrublevskaya/project.git
+## технологии
+- HTML
+- CSS
+- JavaScript
+- php
+## установка
+- git clone https://github.com/AnastasiyaVrublevskaya/project.git
